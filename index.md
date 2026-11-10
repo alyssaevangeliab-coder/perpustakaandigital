@@ -328,7 +328,7 @@
 <div class="ugc-box">
   <div class="ugc-info">
 <h3><i class="fa-solid fa-circle-check"></i> Rangkuman Pemaparan & Wawasan Baru UGC</h3>
-    <p>File ringkasan kegiatan User-Generated Content (Format .pdf)</p>
+    <p>File rangkuman UGC(Format .pdf)</p>
   </div>
   <a href="ebook/RangkumanUGC.pdf" target="_blank" class="btn-ugc"><i class="fa-solid fa-file-arrow-down"></i> Buka Rangkuman UGC</a>
 </div>
