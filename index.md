@@ -1,4 +1,7 @@
 # Digital Library
+Nama  : Alyssa Evangelia Bangun 
+NIM   : 13040124140131
+
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
